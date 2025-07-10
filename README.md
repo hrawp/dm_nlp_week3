@@ -1,11 +1,8 @@
 # Matplotlib and pyplot
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+## Week 3 Assignments
 
-## Rubric
-
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+This is the third week in WEB MINING & APPLIED NLP.  I created this repository from a template.  
+I then worked through four questions for this week's final project.
+The questions and answers are in pyplot.ipynb.
+I also created the html version in pyplot.html.
